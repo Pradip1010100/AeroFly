@@ -20,7 +20,7 @@ This is the **first official release (v1.0)** — now available as a signed APK 
 
 Get the latest APK from the [Releases page](https://github.com/Pradip1010100/AeroFly/releases).
 
-**Direct download**: [app-release.apk](https://github.com/Pradip1010100/AeroFly/releases/download/v1.0/app-release.apk)
+**Direct download**: [app-release.apk](https://github.com/Pradip1010100/AeroFly/releases/download/v1.0.0/app-release.apk")
 
 ---
 
